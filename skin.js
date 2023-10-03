@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.6/20004
 // Filename: ?? ?????.ggsk
-// Generated 2023-10-03T10:35:29
+// Generated 2023-10-03T10:45:31
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_catagory', 2, false, { ignoreInState: 0  });
@@ -7424,7 +7424,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me.__510.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("84RP2 TYPE - \uc900\ube44\uc911", params);
+			var hs = player._("84RP2 TYPE", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -7492,7 +7492,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__510.logicBlock_textcolor();
 		me.__510.onclick=function (e) {
-			player.openUrl("https:\/\/web-suwanhomed-4fju66f2clmy8hj45.sel5.cloudtype.app\/\n","_self");
+			player.openUrl("https:\/\/https:\/\/web-bnc84rp2-iciy2aln07tnbm.sel5.cloudtype.app\/","_self");
 		}
 		me.__510.onmouseover=function (e) {
 			me.elementMouseOver['_510']=true;
@@ -7715,7 +7715,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__61.logicBlock_textcolor();
 		me.__61.onclick=function (e) {
-			player.openUrl("https:\/\/web-suwanhomed-4fju66f2clmy8hj45.sel5.cloudtype.app\/\n","_self");
+			player.openUrl("","_self");
 		}
 		me.__61.onmouseover=function (e) {
 			me.elementMouseOver['_61']=true;
@@ -16328,7 +16328,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._m_5.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("84RP2 TYPE - \uc900\ube44\uc911", params);
+			var hs = player._("84RP2 TYPE", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -16396,7 +16396,7 @@ function pano2vrSkin(player,base) {
 		}
 		me._m_5.logicBlock_textcolor();
 		me._m_5.onclick=function (e) {
-			player.openUrl("","_self");
+			player.openUrl("https:\/\/web-bnc84rp2-iciy2aln07tnbm.sel5.cloudtype.app\/","_self");
 		}
 		me._m_5.onmouseover=function (e) {
 			me.elementMouseOver['m_5']=true;
