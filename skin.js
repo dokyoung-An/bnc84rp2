@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.6/20004
 // Filename: ?? ?????-?????.ggsk
-// Generated 2023-10-13T15:32:40
+// Generated 2023-10-13T15:39:50
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_catagory', 2, false, { ignoreInState: 0  });
@@ -6332,7 +6332,7 @@ function pano2vrSkin(player,base) {
 		me.__114.logicBlock_textcolor = function() {
 			var newLogicStateTextColor;
 			if (
-				((player._(me.ggUserdata.comment) == "84A"))
+				((player._(me.ggUserdata.comment) == "84RP1"))
 			)
 			{
 				newLogicStateTextColor = 0;
@@ -6555,7 +6555,7 @@ function pano2vrSkin(player,base) {
 		me.__213.logicBlock_textcolor = function() {
 			var newLogicStateTextColor;
 			if (
-				((player._(me.ggUserdata.comment) == "74A"))
+				((player._(me.ggUserdata.comment) == "84RP2"))
 			)
 			{
 				newLogicStateTextColor = 0;
@@ -6778,7 +6778,7 @@ function pano2vrSkin(player,base) {
 		me.__310.logicBlock_textcolor = function() {
 			var newLogicStateTextColor;
 			if (
-				((player._(me.ggUserdata.comment) == "74B"))
+				((player._(me.ggUserdata.comment) == "84RP3"))
 			)
 			{
 				newLogicStateTextColor = 0;
@@ -14896,7 +14896,7 @@ function pano2vrSkin(player,base) {
 		me._m_3.logicBlock_textcolor = function() {
 			var newLogicStateTextColor;
 			if (
-				((player._(me.ggUserdata.comment) == "74B"))
+				((player._(me.ggUserdata.comment) == "84RP3"))
 			)
 			{
 				newLogicStateTextColor = 0;
@@ -15141,7 +15141,7 @@ function pano2vrSkin(player,base) {
 		me._m_2.logicBlock_textcolor = function() {
 			var newLogicStateTextColor;
 			if (
-				((player._(me.ggUserdata.comment) == "74A"))
+				((player._(me.ggUserdata.comment) == "84RP2"))
 			)
 			{
 				newLogicStateTextColor = 0;
@@ -15386,7 +15386,7 @@ function pano2vrSkin(player,base) {
 		me._m_1.logicBlock_textcolor = function() {
 			var newLogicStateTextColor;
 			if (
-				((player._(me.ggUserdata.comment) == "84A"))
+				((player._(me.ggUserdata.comment) == "84RP1"))
 			)
 			{
 				newLogicStateTextColor = 0;
